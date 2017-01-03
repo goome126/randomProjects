@@ -1,0 +1,6 @@
+c:\users\nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\bin\Debug\SolvingDylansProblem.exe.config
+c:\users\nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\bin\Debug\SolvingDylansProblem.exe
+c:\users\nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\bin\Debug\SolvingDylansProblem.pdb
+c:\users\nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\obj\Debug\SolvingDylansProblem.exe
+c:\users\nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\obj\Debug\SolvingDylansProblem.pdb
+C:\Users\Nate\documents\visual studio 2015\Projects\SolvingDylansProblemSolution\SolvingDylansProblem\obj\Debug\SolvingDylansProblem.csprojResolveAssemblyReference.cache
